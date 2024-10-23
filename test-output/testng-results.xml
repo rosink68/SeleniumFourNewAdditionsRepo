@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-23T10:58:12 MESZ" name="Suite" finished-at="2024-10-23T10:58:25 MESZ" duration-ms="12764">
+    <groups>
+    </groups>
+    <test started-at="2024-10-23T10:58:12 MESZ" name="Test" finished-at="2024-10-23T10:58:25 MESZ" duration-ms="12764">
+      <class name="session344BrowserOptionClasses.ThreeEdge">
+        <test-method is-config="true" signature="setup()[pri:0, instance:session344BrowserOptionClasses.ThreeEdge@3ba987b8]" started-at="2024-10-23T10:58:21 MESZ" name="setup" finished-at="2024-10-23T10:58:22 MESZ" duration-ms="1222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testOnEdge()[pri:0, instance:session344BrowserOptionClasses.ThreeEdge@3ba987b8]" started-at="2024-10-23T10:58:22 MESZ" name="testOnEdge" finished-at="2024-10-23T10:58:24 MESZ" duration-ms="1225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOnEdge -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:session344BrowserOptionClasses.ThreeEdge@3ba987b8]" started-at="2024-10-23T10:58:24 MESZ" name="tearDown" finished-at="2024-10-23T10:58:25 MESZ" duration-ms="1237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- session344BrowserOptionClasses.ThreeEdge -->
+      <class name="session344BrowserOptionClasses.TwoFirefox">
+        <test-method is-config="true" signature="setup()[pri:0, instance:session344BrowserOptionClasses.TwoFirefox@2d901eb0]" started-at="2024-10-23T10:58:16 MESZ" name="setup" finished-at="2024-10-23T10:58:19 MESZ" duration-ms="2761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testOnFirefox()[pri:0, instance:session344BrowserOptionClasses.TwoFirefox@2d901eb0]" started-at="2024-10-23T10:58:19 MESZ" name="testOnFirefox" finished-at="2024-10-23T10:58:21 MESZ" duration-ms="1452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOnFirefox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:session344BrowserOptionClasses.TwoFirefox@2d901eb0]" started-at="2024-10-23T10:58:21 MESZ" name="tearDown" finished-at="2024-10-23T10:58:21 MESZ" duration-ms="584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- session344BrowserOptionClasses.TwoFirefox -->
+      <class name="session344BrowserOptionClasses.OneCrome">
+        <test-method is-config="true" signature="setup()[pri:0, instance:session344BrowserOptionClasses.OneCrome@1530c739]" started-at="2024-10-23T10:58:12 MESZ" name="setup" finished-at="2024-10-23T10:58:14 MESZ" duration-ms="1693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testOnChrome()[pri:0, instance:session344BrowserOptionClasses.OneCrome@1530c739]" started-at="2024-10-23T10:58:14 MESZ" name="testOnChrome" finished-at="2024-10-23T10:58:16 MESZ" duration-ms="2451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOnChrome -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:session344BrowserOptionClasses.OneCrome@1530c739]" started-at="2024-10-23T10:58:16 MESZ" name="tearDown" finished-at="2024-10-23T10:58:16 MESZ" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- session344BrowserOptionClasses.OneCrome -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
